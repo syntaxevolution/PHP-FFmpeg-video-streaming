@@ -52,7 +52,7 @@
     },
     "require": {
         "php": "^7.2",
-        "pbmedia/php-ffmpeg": "^0.14.1",
+        "php-ffmpeg/php-ffmpeg": "^0.14",
         "symfony/filesystem": "^4.3"
     },
     "suggest": {
