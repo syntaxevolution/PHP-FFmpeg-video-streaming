@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace Streaming;
+namespace SyntaxEvolution\Streaming;
 
-use Streaming\Filters\DASHFilter;
-use Streaming\Filters\Filter;
+use SyntaxEvolution\Streaming\Filters\DASHFilter;
+use SyntaxEvolution\Streaming\Filters\Filter;
 
 class DASH extends Streaming
 {

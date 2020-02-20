@@ -10,7 +10,7 @@
  */
 
 
-namespace Streaming;
+namespace SyntaxEvolution\Streaming;
 
 
 class Metadata

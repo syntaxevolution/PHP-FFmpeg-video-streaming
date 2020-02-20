@@ -11,9 +11,9 @@
 
 namespace Tests\FFMpegStreaming;
 
-use Streaming\Filters\Filter;
-use Streaming\Filters\HLSFilter;
-use Streaming\HLS;
+use SyntaxEvolution\Streaming\Filters\Filter;
+use SyntaxEvolution\Streaming\Filters\HLSFilter;
+use SyntaxEvolution\Streaming\HLS;
 
 class HLSFiltersTest extends TestCase
 {

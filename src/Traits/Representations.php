@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace Streaming\Traits;
+namespace SyntaxEvolution\Streaming\Traits;
 
-use Streaming\AutoRepresentations;
-use Streaming\Exception\InvalidArgumentException;
-use Streaming\Representation;
+use SyntaxEvolution\Streaming\AutoRepresentations;
+use SyntaxEvolution\Streaming\Exception\InvalidArgumentException;
+use SyntaxEvolution\Streaming\Representation;
 
 trait Representations
 {

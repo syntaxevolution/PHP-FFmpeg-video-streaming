@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Streaming\Exception;
+namespace SyntaxEvolution\Streaming\Exception;
 
 class InvalidArgumentException extends \InvalidArgumentException implements StreamingExceptionInterface
 {

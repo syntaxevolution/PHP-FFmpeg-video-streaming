@@ -11,9 +11,9 @@
 
 namespace Tests\FFMpegStreaming;
 
-use Streaming\DASH;
-use Streaming\HLS;
-use Streaming\Media;
+use SyntaxEvolution\Streaming\DASH;
+use SyntaxEvolution\Streaming\HLS;
+use SyntaxEvolution\Streaming\Media;
 use FFMpeg\FFProbe\DataMapping\Stream;
 
 class MediaTest extends TestCase

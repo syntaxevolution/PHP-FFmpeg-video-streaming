@@ -113,7 +113,7 @@ $video->DASH()
 ```
 Generate representations manually:
 ``` php
-use Streaming\Representation;
+use SyntaxEvolution\Streaming\Representation;
 
 $r_144p  = (new Representation)->setKiloBitrate(95)->setResize(256, 144);
 $r_240p  = (new Representation)->setKiloBitrate(150)->setResize(426, 240);
@@ -144,7 +144,7 @@ $video->HLS()
 ```
 Generate representations manually:
 ``` php
-use Streaming\Representation;
+use SyntaxEvolution\Streaming\Representation;
 
 $r_360p  = (new Representation)->setKiloBitrate(276)->setResize(640, 360);
 $r_480p  = (new Representation)->setKiloBitrate(750)->setResize(854, 480);

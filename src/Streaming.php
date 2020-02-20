@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Streaming;
+namespace SyntaxEvolution\Streaming;
 
-use Streaming\Traits\Representations;
+use SyntaxEvolution\Streaming\Traits\Representations;
 
 
 abstract class Streaming extends Export

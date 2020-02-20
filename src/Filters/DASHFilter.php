@@ -10,12 +10,12 @@
  */
 
 
-namespace Streaming\Filters;
+namespace SyntaxEvolution\Streaming\Filters;
 
 
-use Streaming\DASH;
-use Streaming\Format\X264;
-use Streaming\Representation;
+use SyntaxEvolution\Streaming\DASH;
+use SyntaxEvolution\Streaming\Format\X264;
+use SyntaxEvolution\Streaming\Representation;
 
 class DASHFilter extends Filter
 {

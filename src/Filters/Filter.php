@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Streaming\Filters;
+namespace SyntaxEvolution\Streaming\Filters;
 
-use Streaming\Export;
+use SyntaxEvolution\Streaming\Export;
 use FFMpeg\Filters\FilterInterface;
 
 abstract class Filter implements FilterInterface, FilterStreamingInterface

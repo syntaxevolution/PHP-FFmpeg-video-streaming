@@ -9,13 +9,13 @@
  * file that was distributed with this source code.
  */
 
-namespace Streaming\Traits;
+namespace SyntaxEvolution\Streaming\Traits;
 
-use Streaming\Exception\InvalidArgumentException;
-use Streaming\Format\HEVC;
-use Streaming\Format\Video;
-use Streaming\Format\VP9;
-use Streaming\Format\X264;
+use SyntaxEvolution\Streaming\Exception\InvalidArgumentException;
+use SyntaxEvolution\Streaming\Format\HEVC;
+use SyntaxEvolution\Streaming\Format\Video;
+use SyntaxEvolution\Streaming\Format\VP9;
+use SyntaxEvolution\Streaming\Format\X264;
 use FFMpeg\Format\FormatInterface;
 
 trait Formats

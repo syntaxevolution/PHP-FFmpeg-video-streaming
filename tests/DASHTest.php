@@ -11,10 +11,10 @@
 
 namespace Tests\FFMpegStreaming;
 
-use Streaming\DASH;
-use Streaming\Export;
-use Streaming\Format\Video;
-use Streaming\Representation;
+use SyntaxEvolution\Streaming\DASH;
+use SyntaxEvolution\Streaming\Export;
+use SyntaxEvolution\Streaming\Format\Video;
+use SyntaxEvolution\Streaming\Representation;
 use ReflectionClass;
 
 class DASHTest extends TestCase

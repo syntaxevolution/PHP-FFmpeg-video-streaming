@@ -2,7 +2,7 @@
 
 namespace Tests\FFMpegStreaming;
 
-use Streaming\FFMpeg;
+use SyntaxEvolution\Streaming\FFMpeg;
 use PHPUnit\Framework\TestCase as BaseTestCase;
 
 class TestCase extends BaseTestCase

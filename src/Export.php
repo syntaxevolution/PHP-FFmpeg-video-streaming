@@ -9,14 +9,14 @@
  * file that was distributed with this source code.
  */
 
-namespace Streaming;
+namespace SyntaxEvolution\Streaming;
 
 use FFMpeg\Exception\ExceptionInterface;
-use Streaming\Clouds\Cloud;
-use Streaming\Exception\InvalidArgumentException;
-use Streaming\Exception\RuntimeException;
-use Streaming\Filters\Filter;
-use Streaming\Traits\Formats;
+use SyntaxEvolution\Streaming\Clouds\Cloud;
+use SyntaxEvolution\Streaming\Exception\InvalidArgumentException;
+use SyntaxEvolution\Streaming\Exception\RuntimeException;
+use SyntaxEvolution\Streaming\Filters\Filter;
+use SyntaxEvolution\Streaming\Traits\Formats;
 
 
 abstract class Export

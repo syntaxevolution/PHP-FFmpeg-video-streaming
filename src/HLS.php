@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace Streaming;
+namespace SyntaxEvolution\Streaming;
 
-use Streaming\Filters\HLSFilter;
-use Streaming\Filters\Filter;
+use SyntaxEvolution\Streaming\Filters\HLSFilter;
+use SyntaxEvolution\Streaming\Filters\Filter;
 
 class HLS extends Streaming
 {

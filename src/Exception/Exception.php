@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Streaming\Exception;
+namespace SyntaxEvolution\Streaming\Exception;
 
 class Exception extends \Exception implements StreamingExceptionInterface
 {

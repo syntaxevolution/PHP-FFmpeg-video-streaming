@@ -1,6 +1,6 @@
 {
-    "name": "aminyazdanpanah/php-ffmpeg-video-streaming",
-    "description": "📼 PHP FFMpeg - Video Streaming - DASH, HLS http://video.aminyazdanpanah.com",
+    "name": "syntaxevolution/php-ffmpeg-video-streaming",
+    "description": "📼 PHP FFMpeg - Video Streaming - DASH, HLS",
     "type": "library",
     "keywords": [
         "dash",
@@ -21,13 +21,13 @@
         "amazons3",
         "microsoftazure"
     ],
-    "homepage": "https://github.com/aminyazdanpanah/PHP-FFmpeg-video-streaming",
+    "homepage": "https://github.com/syntaxevolution/PHP-FFmpeg-video-streaming",
     "license": "MIT",
     "authors": [
         {
-            "name": "Amin Yazdanpanah",
-            "email": "contact@aminyazdanpanah.com",
-            "homepage": "https://www.aminyazdanpanah.com"
+            "name": "Topher Lazarz",
+            "email": "topher@syntaxevolution.com",
+            "homepage": "https://github.com/syntaxevolution/PHP-FFmpeg-video-streaming"
         }
     ],
     "minimum-stability": "dev",
@@ -39,7 +39,7 @@
             "src/helpers.php"
         ],
         "psr-4": {
-            "Streaming\\": "src"
+            "SyntaxEvolution\\Streaming\\": "src"
         }
     },
     "require-dev": {
@@ -52,7 +52,7 @@
     },
     "require": {
         "php": "^7.2",
-        "php-ffmpeg/php-ffmpeg": "^0.14",
+        "pbmedia/php-ffmpeg": "^0.14.1",
         "symfony/filesystem": "^4.3"
     },
     "suggest": {

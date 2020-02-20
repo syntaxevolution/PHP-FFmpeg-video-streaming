@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Streaming;
+namespace SyntaxEvolutionStreaming;
 
 use FFMpeg\Media\MediaTypeInterface;
 

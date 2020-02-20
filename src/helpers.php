@@ -11,7 +11,7 @@
 
 use FFMpeg\FFProbe;
 use Psr\Log\LoggerInterface;
-use Streaming\FFMpeg;
+use SyntaxEvolution\Streaming\FFMpeg;
 
 
 if (!function_exists('ffmpeg')) {

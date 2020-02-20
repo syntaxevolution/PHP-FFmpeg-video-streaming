@@ -10,10 +10,10 @@
  */
 
 
-namespace Streaming;
+namespace SyntaxEvolution\Streaming;
 
 
-use Streaming\Exception\RuntimeException;
+use SyntaxEvolution\Streaming\Exception\RuntimeException;
 use Symfony\Component\Filesystem\Exception\IOExceptionInterface;
 use Symfony\Component\Filesystem\Filesystem;
 

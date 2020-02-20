@@ -11,7 +11,7 @@
 
 namespace Tests\FFMpegStreaming;
 
-use Streaming\File;
+use SyntaxEvolution\Streaming\File;
 
 class FileManagerTest extends TestCase
 {

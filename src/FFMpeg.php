@@ -9,14 +9,14 @@
  * file that was distributed with this source code.
  */
 
-namespace Streaming;
+namespace SyntaxEvolution\Streaming;
 
 use FFMpeg\Exception\ExceptionInterface;
 use FFMpeg\FFMpeg as BFFMpeg;
 use FFMpeg\FFProbe;
 use Psr\Log\LoggerInterface;
-use Streaming\Clouds\Cloud;
-use Streaming\Exception\RuntimeException;
+use SyntaxEvolution\Streaming\Clouds\Cloud;
+use SyntaxEvolution\Streaming\Exception\RuntimeException;
 
 
 class FFMpeg

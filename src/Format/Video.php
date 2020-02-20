@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace Streaming\Format;
+namespace SyntaxEvolution\Streaming\Format;
 
 use FFMpeg\Format\Audio\DefaultAudio;
-use Streaming\Exception\InvalidArgumentException;
+use SyntaxEvolution\Streaming\Exception\InvalidArgumentException;
 
 abstract class Video extends DefaultAudio
 {

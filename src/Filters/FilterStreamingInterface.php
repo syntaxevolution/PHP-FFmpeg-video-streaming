@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Streaming\Filters;
+namespace SyntaxEvolution\Streaming\Filters;
 
 interface FilterStreamingInterface
 {

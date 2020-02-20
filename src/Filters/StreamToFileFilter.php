@@ -10,10 +10,10 @@
  */
 
 
-namespace Streaming\Filters;
+namespace SyntaxEvolution\Streaming\Filters;
 
 
-use Streaming\StreamToFile;
+use SyntaxEvolution\Streaming\StreamToFile;
 
 class StreamToFileFilter extends Filter
 {

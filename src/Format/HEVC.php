@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Streaming\Format;
+namespace SyntaxEvolution\Streaming\Format;
 
 final class HEVC extends Video
 {

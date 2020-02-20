@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace Streaming\Filters;
+namespace SyntaxEvolution\Streaming\Filters;
 
-use Streaming\File;
-use Streaming\HLS;
-use Streaming\Representation;
+use SyntaxEvolution\Streaming\File;
+use SyntaxEvolution\Streaming\HLS;
+use SyntaxEvolution\Streaming\Representation;
 
 class HLSFilter extends Filter
 {

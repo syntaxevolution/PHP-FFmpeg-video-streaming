@@ -11,9 +11,9 @@
 
 namespace Tests\FFMpegStreaming;
 
-use Streaming\DASH;
-use Streaming\Filters\DASHFilter;
-use Streaming\Filters\Filter;
+use SyntaxEvolution\Streaming\DASH;
+use SyntaxEvolution\Streaming\Filters\DASHFilter;
+use SyntaxEvolution\Streaming\Filters\Filter;
 
 class DASHFiltersTest extends TestCase
 {

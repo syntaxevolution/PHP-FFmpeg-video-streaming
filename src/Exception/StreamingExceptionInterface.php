@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Streaming\Exception;
+namespace SyntaxEvolution\Streaming\Exception;
 
 
 interface StreamingExceptionInterface extends \Throwable

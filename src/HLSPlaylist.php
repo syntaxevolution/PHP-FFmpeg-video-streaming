@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Streaming;
+namespace SyntaxEvolution\Streaming;
 
 
 class HLSPlaylist

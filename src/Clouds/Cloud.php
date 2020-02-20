@@ -10,11 +10,11 @@
  */
 
 
-namespace Streaming\Clouds;
+namespace SyntaxEvolution\Streaming\Clouds;
 
 
-use Streaming\Exception\InvalidArgumentException;
-use Streaming\File;
+use SyntaxEvolution\Streaming\Exception\InvalidArgumentException;
+use SyntaxEvolution\Streaming\File;
 
 class Cloud
 {

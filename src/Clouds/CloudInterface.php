@@ -10,7 +10,7 @@
  */
 
 
-namespace Streaming\Clouds;
+namespace SyntaxEvolution\Streaming\Clouds;
 
 
 interface CloudInterface

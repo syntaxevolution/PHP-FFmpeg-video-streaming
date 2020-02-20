@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Streaming;
+namespace SyntaxEvolution\Streaming;
 
-use Streaming\Exception\InvalidArgumentException;
+use SyntaxEvolution\Streaming\Exception\InvalidArgumentException;
 
 class AutoRepresentations
 {

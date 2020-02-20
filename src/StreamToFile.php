@@ -10,12 +10,12 @@
  */
 
 
-namespace Streaming;
+namespace SyntaxEvolution\Streaming;
 
 
-use Streaming\Exception\InvalidArgumentException;
-use Streaming\Filters\Filter;
-use Streaming\Filters\StreamToFileFilter;
+use SyntaxEvolution\Streaming\Exception\InvalidArgumentException;
+use SyntaxEvolution\Streaming\Filters\Filter;
+use SyntaxEvolution\Streaming\Filters\StreamToFileFilter;
 
 class StreamToFile extends Export
 {
